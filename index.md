@@ -7,19 +7,12 @@ This is a **cheap** Yard Care buisness
 ## Price 
 
 
-
-
-Lawn mowing
-**10 bucks a hour**
-
-Raking Leaves
-**TBD**
-
-Harvesting
-**TBD**
-
-Planting
-**TBD**
+ Work|price
+------------ | -------------
+Lawn Mowing| $10 each hour
+Raking Leaves | TBD
+Harvesting|TBD
+Planting|TBD
 
 
 
