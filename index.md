@@ -2,8 +2,7 @@
 
 This is a **cheap** Yard Care buisness
 
-**this is not done yet** 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files
+**this is not done yet**
 
 <p style="font-size:30px;">Payment</p> 
 
@@ -14,11 +13,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Header 2
 # Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**num reasons you should choose B * J YARD CARE**
+1.<p style="font-size:10px;">Cheap</p> 
 
 **Bold** and _Italic_ and `Code` text
 
