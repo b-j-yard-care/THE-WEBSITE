@@ -13,20 +13,19 @@ Lawn Mowing| $10 each hour
 Raking Leaves | TBD
 Harvesting|TBD
 Planting|TBD
-        
-        http://googlemap.com - automatic!
-[GitHub](http://googlemap.com)
+
+
+
+**Places where we are avaliable**
+* Corvallis OR 
+* Lebanon OR 
+* Philomath OR
+* Albany OR
+
+
                                                                        
 
 ## Reasons why should you choose B & J  YARD CARE
 1. Cheap
 2. 
-
-
-
-
-
-
-
-
 
