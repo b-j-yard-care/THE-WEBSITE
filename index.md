@@ -3,13 +3,11 @@
 This is a **cheap** Yard Care buisness
 
 **this is not done yet** 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files
 
-### Payment
+<p style="font-size:50px;">Payment</p> 
 
-<p style="color:red;">I am red</p>
-<p style="color:blue;">I am blue</p>
-<p style="font-size:50px;">I am big</p>
+
 
 ```markdown
 Syntax highlighted code block
