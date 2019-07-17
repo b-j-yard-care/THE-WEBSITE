@@ -13,8 +13,9 @@ Lawn Mowing| $10 each hour
 Raking Leaves | TBD
 Harvesting|TBD
 Planting|TBD
-                                                                                                http://googlemap.com - automatic!
-[GitHub](http://github.com)
+        |
+        http://googlemap.com - automatic!
+[GitHub](http://googlemap.com)
                                                                        
 
 ## Reasons why should you choose B & J  YARD CARE
