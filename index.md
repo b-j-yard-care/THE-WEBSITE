@@ -5,12 +5,10 @@ This is a **cheap** Yard Care buisness
 **this is not done yet** 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files
 
-<p style="font-size:50px;">Payment</p> 
+<p style="font-size:30px;">Payment</p> 
 
 
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
