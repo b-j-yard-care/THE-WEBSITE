@@ -7,7 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Payment
 
-<font size="6">This is some text!</font>
+<p style="color:red;">I am red</p>
+<p style="color:blue;">I am blue</p>
+<p style="font-size:50px;">I am big</p>
 
 ```markdown
 Syntax highlighted code block
