@@ -11,8 +11,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 # Header 1
-## Header 2
-### Header 3
+# Header 2
+# Header 3
 
 - Bulleted
 - List
