@@ -13,7 +13,7 @@ Lawn Mowing| $10 each hour
 Raking Leaves | TBD
 Harvesting|TBD
 Planting|TBD
-        |
+        
         http://googlemap.com - automatic!
 [GitHub](http://googlemap.com)
                                                                        
@@ -30,6 +30,3 @@ Planting|TBD
 
 
 
-
-
-                                  ##
