@@ -25,6 +25,10 @@ Trimming|TBD
 * Albany OR
 
 
+
+ **!!Warning!!**
+ WE DO NOT DO EDGING
+
                                                                        
 
 ## Reasons why should you choose B & J  YARD CARE
