@@ -13,7 +13,9 @@ Lawn Mowing| $10 each hour
 Raking Leaves | TBD
 Harvesting|TBD
 Planting|TBD
-
+Weeding|TBD
+Cuting Long Grass|TBD
+Trimming|TBD
 
 
 **Places where we are avaliable**
