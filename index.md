@@ -24,7 +24,7 @@ Trimming|TBD
 * Albany OR
 
 
-<font color="Red"> Some Red text </font>**WARNING**We do not do EDGING
+**WARNING**We do not do EDGING
                                                                        
 
 ## Reasons why should you choose B & J  YARD CARE
