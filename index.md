@@ -2,7 +2,7 @@
 
 This is a **cheap** Yard Care buisness
 
-![a lawn mowing](In-the-Website)
+[GitHub Logo](/images/logo.png)
 
 **this is not done yet**
 
