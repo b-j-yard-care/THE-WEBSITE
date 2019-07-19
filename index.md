@@ -2,7 +2,7 @@
 
 This is a **cheap** Yard Care buisness
 
-![a lawn mowing](The-Buisness.png)
+![a lawn mowing](In the website)
 
 **this is not done yet**
 
