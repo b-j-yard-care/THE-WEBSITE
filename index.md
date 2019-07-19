@@ -2,10 +2,7 @@
 
 This is a **cheap** Yard Care buisness
 
-[GitHub Logo](/images/logo.png)
-
-**this is not done yet**
-
+[B-J-Yard-Care-Logo]
 ## Price 
 
 
@@ -27,10 +24,7 @@ Trimming|TBD
 * Albany OR
 
 
-
- **!!Warning!!**
- WE DO NOT DO EDGING
-
+**WARNING**We do not do EDGING
                                                                        
 
 ## Reasons why should you choose B & J  YARD CARE
