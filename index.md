@@ -9,12 +9,11 @@ This is a **cheap** Yard Care buisness
  Work|Price
 ------------ | -------------
 Lawn Mowing| $10 each hour
-Raking Leaves | TBD
+Raking Leaves | $5 per 30 min
 Harvesting|TBD
 Planting|TBD
-Weeding|TBD
+Weeding|$5 every 5 Gallon bucket
 Cuting Long Grass|TBD
-Trimming|TBD
 
 
 **Places where we are avaliable**
@@ -29,6 +28,6 @@ Trimming|TBD
 **WARNING** We do not do EDGING
 ## Reasons why should you choose B & J  YARD CARE
 **1. Cheap**
+**2. Bargain**
+**3. Young
 
-
-ge
