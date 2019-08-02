@@ -19,11 +19,11 @@ Trimming|TBD
 
 **Places where we are avaliable**
 * Corvallis OR 
-* Lebanon OR 
+* Lewisburg OR
 * Philomath OR
 * Albany OR
-
-
+* Adair Village OR
+* Dry Creek OR
 **WARNING**We do not do EDGING
                                                                        
 
@@ -31,3 +31,4 @@ Trimming|TBD
 **1. Cheap**
 
 
+ge
