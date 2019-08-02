@@ -24,9 +24,9 @@ Trimming|TBD
 * Albany OR
 * Adair Village OR
 * Dry Creek OR
-**WARNING**We do not do EDGING
-                                                                       
 
+                                                                       
+**WARNING**We do not do EDGING
 ## Reasons why should you choose B & J  YARD CARE
 **1. Cheap**
 
