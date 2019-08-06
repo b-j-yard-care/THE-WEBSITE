@@ -31,5 +31,5 @@ Cuting Long Grass|TBD
 
 **2. Bargain**
 
-**3. Young 8*
+**3. Young **
 
