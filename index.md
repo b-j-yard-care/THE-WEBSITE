@@ -25,7 +25,7 @@ Cuting Long Grass|TBD
 * Dry Creek OR
 
                                                                        
-<p style="color:red;">WARNING</p> <p style="color:firebrick;">: We do not do EDGING</p>
+<span style="color:red;">WARNING</span> <span style="color:firebrick;">: We do not do EDGING</span>
 
 ## Reasons why should you choose B & J  YARD CARE
 **1. Cheap**
