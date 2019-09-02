@@ -2,7 +2,7 @@
 
 This is a **cheap** Yard Care buisness
 #THIS IS NOT DONE YET
-[B-J-Yard-Care-Logo]
+B & J Logo
 ## Price 
 
 
