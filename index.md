@@ -9,8 +9,8 @@ B & J Logo
  Work|Price
 ------------ | -------------
 Lawn Mowing| $10 each hour
-Raking Leaves | $10 each our
-Harvesting|$10 each chour
+Raking Leaves | $10 each hour
+Harvesting|$10 each hour
 Planting|$10 each hour
 Weeding|$10 each hour
 Cuting Long Grass|$10 each hour
