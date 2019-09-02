@@ -3,6 +3,7 @@
 This is a **cheap** Yard Care buisness
 #THIS IS NOT DONE YET
 B & J Logo
+![B & J Logo](B & J Logo.png)
 ## Price 
 
 
