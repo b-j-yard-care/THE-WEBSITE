@@ -14,7 +14,7 @@ Harvesting|$10 each chour
 Planting|$10 each hour
 Weeding|$10 each hour
 Cuting Long Grass|$10 each hour
-
+Mulching|$10 each hour
                                                                        
 <span style="color:red;">WARNING</span><span style="color:firebrick;">: We do not do EDGING</span>
 
