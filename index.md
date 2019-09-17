@@ -6,7 +6,7 @@ This is a **cheap** Yard Care buisness
 ## Price 
 
 
-<span style="color:Green:"> Work|Price
+ Work|Price
 ------------ | -------------
 Lawn Mowing| $10 each hour
 Raking Leaves | $10 each hour
@@ -15,7 +15,7 @@ Planting|$10 each hour
 Weeding|$10 each hour
 Cuting Long Grass|$10 each hour
 Mulching|$10 each hour
-Cutting Tree Branches|$10 each hour</span>
+Cutting Tree Branches|$10 each hour
                                                                        
 <span style="color:red;">WARNING</span><span style="color:firebrick;">: We do not do EDGING</span>
 
